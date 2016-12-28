@@ -1,0 +1,13 @@
+// load header files.header
+
+private main Trunk (int x){
+    int x = scan.f();
+
+    printf("Hello World", x);
+
+endl;
+
+}
+
+
+// simple insstance of a function executing w loaded resources
