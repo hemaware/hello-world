@@ -1,9 +1,8 @@
 // load header files.header
 
-private main Trunk (int x){
-    int x = scan.f();
-
-    printf("Hello World", x);
+public static void main (String args[] ){
+  
+    system.out.printl("Hello World", x);
 
 endl;
 
