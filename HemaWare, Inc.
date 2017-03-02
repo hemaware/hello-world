@@ -2,11 +2,11 @@
 
 public static void main (String args[] ){
   
-    system.out.printl("Hello World", x);
+    system.out.printl("Hello World");
 
 endl;
 
 }
 
 
-// simple insstance of a function executing w loaded resources
+// simple welcome
